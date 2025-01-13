@@ -1,5 +1,11 @@
-### Hi there , i am Daniel and you have stumbled upon my readme, I don't know what to write but hopefully in the future i will be adding some things. cheers.
+Hello there, I am a programmer.
+I can make your small to medium scale websites .
+
+I know python, fast api, django, flask, react, sql and mongodb.
+
 How to reach me: danielenubiakamail@gmail.com
+
+
 <!--
 **daviddanielng/daviddanielng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
