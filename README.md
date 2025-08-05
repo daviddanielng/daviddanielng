@@ -5,7 +5,6 @@ I know python, fast api, django, flask, react, sql and mongodb.
 
 How to reach me: danielenubiakamail@gmail.com
 
-> Stats
 
 ![daviddanielng's Stats](https://github-readme-stats.vercel.app/api?username=daviddanielng&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
